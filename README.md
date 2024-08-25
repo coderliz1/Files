@@ -17,3 +17,5 @@ Guidelines for contributing to your project.
 ## License
 
 Information about the project's license.
+
+This is going to be fun! 

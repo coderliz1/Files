@@ -19,3 +19,5 @@ Guidelines for contributing to your project.
 Information about the project's license.
 
 This is going to be fun! 
+
+# testing this again to see where i'm at in the code and what changes with these git commits

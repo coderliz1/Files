@@ -25,9 +25,9 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 SECRET_KEY = 'django-insecure-wbz@(!s_^pvlvxfm_m9@rhm43nl$d^jk)@sm!jfd=9p&*m^)dh'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'http://files-env.eba-pavcnmxb.us-east-1.elasticbeanstalk.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'files-env.eba-pbq5mdt8.us-east-1.elasticbeanstalk.com']
 
 
 # Application definition
